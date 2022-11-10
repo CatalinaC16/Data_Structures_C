@@ -1,0 +1,5 @@
+# ninja log v5
+1	177	6752028383200960	build.ninja	a11b1a498320c523
+3	403	6702858393348877	CMakeFiles/lab4.dir/IntBinaryTree.c.obj	1d10358370cc8dc
+2	103	6703653051273505	CMakeFiles/lab4.dir/main.c.obj	13d0790e32ef495f
+104	265	6703653052776985	lab4.exe	f27aae7cfddbde24

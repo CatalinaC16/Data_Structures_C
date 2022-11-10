@@ -1,0 +1,7 @@
+# ninja log v5
+2	118	6703609998530361	CMakeFiles/lab3.dir/main.c.obj	fec290befc7036e3
+2	123	6703618311960725	CMakeFiles/lab3.dir/intDoubleLinkedList.c.obj	f7207e081cf3cea3
+0	165	6752010384524355	build.ninja	935f6a9a3f01e71d
+36	187	6701916949532492	CMakeFiles/lab3.dir/intQueue.c.obj	d13465d311a34cb7
+18	170	6701916949374853	CMakeFiles/lab3.dir/intStack.c.obj	f37ddc99567d4854
+124	271	6703618313494493	lab3.exe	72f1520cd6694f03

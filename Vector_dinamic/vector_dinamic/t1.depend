@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1645468904 source:d:\sda\lab 1\tema 1\t1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"unsignedVector.h"
+
+1645378346 d:\sda\lab 1\tema 1\t1\unsignedvector.h
+	"exception.h"
+
+1645378342 d:\sda\lab 1\tema 1\t1\exception.h
+
+1645468924 source:d:\sda\lab 1\tema 1\t1\unsignedvector.c
+	"unsignedVector.h"
+	<stdlib.h>
+

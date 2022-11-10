@@ -1,0 +1,3 @@
+D:/SDA/stiva_coada_listaDubla/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/SDA/stiva_coada_listaDubla/cmake-build-debug/CMakeFiles/lab3.dir
+D:/SDA/stiva_coada_listaDubla/cmake-build-debug/CMakeFiles/edit_cache.dir
